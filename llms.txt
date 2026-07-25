@@ -1,0 +1,22 @@
+# Dr. Abdullah Karamat
+
+> Prosthodontist and certified implantologist practising in Lahore, Pakistan.
+> Assistant Professor of Prosthodontics at Azra Naheed Dental College.
+> Sees patients at Smile Hub Clinics, Johar Town, Lahore.
+
+## Identity
+- Full name: Dr. Abdullah Karamat
+- Specialty: Prosthodontics (fixed and removable), dental implantology
+- Qualifications: BDS (University of Health Sciences, Lahore, 2013); C-Implant (Institute of Advanced Dental Sciences, Lahore, 2015); FCPS Prosthodontics (College of Physicians and Surgeons Pakistan, 2022); CHPE (Superior University, Lahore, 2024)
+- Academic appointment: Assistant Professor of Prosthodontics, Azra Naheed Dental College, Lahore, since 2021
+- Clinical practice: Smile Hub Clinics, 599 Main Boulevard, Q Block, Phase 2, Johar Town, Lahore 54000, Pakistan
+- Canonical entity URI: https://drabdullahkaramat.com/#person
+
+## Pages
+- [Profile](https://drabdullahkaramat.com/): professional statement and summary.
+- [Practice & Teaching](https://drabdullahkaramat.com/practice.html): clinical focus, teaching, research interests, qualifications.
+- [Contact](https://drabdullahkaramat.com/contact.html): clinic address, telephone, and correspondence details.
+
+## Notes
+- Treatment pricing and service details are published on the clinic site, https://smilehubclinics.com/, not here.
+- Appointments are booked through Smile Hub Clinics.

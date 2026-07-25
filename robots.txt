@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://drabdullahkaramat.com/sitemap.xml
